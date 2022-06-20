@@ -1,0 +1,17 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://202.191.196.210/RefundManagementWebservice/service.asmx"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, HDFCERGO.PIP.Adapters.FileNet"
+    ],
+    "sync": true,
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}

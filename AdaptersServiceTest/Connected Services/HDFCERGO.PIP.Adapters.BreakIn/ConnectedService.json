@@ -1,0 +1,17 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://115.113.35.240/Breakinwrapperservice/BreakinWrapper_WCF.Service1.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, HDFCERGO.PIP.Adapters.BreakIn"
+    ],
+    "sync": true,
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}

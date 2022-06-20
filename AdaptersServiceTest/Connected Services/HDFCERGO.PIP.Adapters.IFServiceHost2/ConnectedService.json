@@ -1,0 +1,17 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://ifuat.hdfcergo.com/IFServiceHost2/InputOutputService.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, HDFCERGO.PIP.Adapters.IFServiceHost2"
+    ],
+    "sync": true,
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}
