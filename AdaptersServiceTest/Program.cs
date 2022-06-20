@@ -33,7 +33,6 @@ while (true)
 	
 }
 
-Console.WriteLine(generatedItem.name + generatedItem.percentage);
 
 
 
